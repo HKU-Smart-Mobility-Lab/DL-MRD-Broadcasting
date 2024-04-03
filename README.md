@@ -16,9 +16,14 @@ As ride-hailing services have experienced significant growth, most research has 
 
 • We have conducted extensive experiments based on a tailored simulation platform for broadcasting mode operations, which validate the effectiveness of our proposed Deep Learning-based Matching Radius Decision (DL-MRD) approach and multi-task training strategies.
 
-![matching mechanism](https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/order-matching.pdf "The upper diagram demonstrates the dispatching mode, where a platform assigns a specific order to a driver who must accept it. The lower diagram depicts the broadcasting mode, where orders are sent out to all drivers, allowing them to select their preferred orders.")
 
-![model](https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/model.pdf "The structure of DL-MRD model")
+
+<div id="pdfContainer"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.2.6/pdfobject.min.js"></script>
+<script>
+    PDFObject.embed("https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/order-matching.pdf", "#pdfContainer");
+</script>
 
 
 ### Install Simulator
