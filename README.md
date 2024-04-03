@@ -19,6 +19,8 @@ As ride-hailing services have experienced significant growth, most research has 
 ![matching mechanism](https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/order-matching.pdf, "The upper diagram demonstrates the dispatching mode, where a platform assigns a specific order to a driver who must accept it. The lower diagram depicts the broadcasting mode, where orders are sent out to all drivers, allowing them to select their preferred orders.")
 
 ![model](https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/model.pdf, "The structure of DL-MRD model")
+<embed src="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/order-matching.pdf" width="500" height="375" type="application/pdf">
+<embed src="https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/model.pdf" width="500" height="375" type="application/pdf">
 
 ### Install Simulator
 
