@@ -1,10 +1,10 @@
-### An Open-Sourced Network-Based Large-Scale Simulation Platform for Shared Mobility Operations
+### Dynamic Matching Radius Decision Model for On-Demand Ride Services: A Deep Multi-Task Learning Approach
 
 ![效果图](https://img.shields.io/static/v1?label=build&message=passing&color=green) ![](https://img.shields.io/static/v1?label=python&message=3&color=blue) ![](https://img.shields.io/static/v1?label=release&message=2.0&color=green) ![](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
 
 ### Background
 
-Establish an open-sourced network-based simulation platform for shared mobility operations. The simulation explicitly characterizes drivers’ movements on road networks for trip delivery, idle cruising, and en-route pick-up. 
+As ride-hailing services have experienced significant growth, most research has concentrated on the dispatching mode, where drivers must adhere to the platform's assigned routes. However, the broadcasting mode, in which drivers can freely choose their preferred orders from those broadcast by the platform, has received less attention. One important but challenging task in such a system is the determination of the optimal matching radius, which usually varies across space, time, and real-time supply/demand characteristics. This study develops a \textbf{D}eep \textbf{L}earning-based \textbf{M}atching \textbf{R}adius \textbf{D}ecision (DL-MRD) model that predicts key system performance metrics for a range of matching radii, which enables the ride-hailing platform to select an optimal matching radius that maximizes overall system performance according to real-time supply and demand information. To simultaneously maximize multiple system performance metrics for matching radius determination, we devise a novel multi-task learning algorithm named \textbf{W}eighted \textbf{E}xponential \textbf{S}moothing \textbf{M}ulti-task (WESM) learning strategy that enhances convergence speed of each task (corresponding to the optimization of one metric) and delivers more accurate overall predictions. We evaluate our methods in a simulation environment designed for broadcasting-mode-based ride-hailing service. Our findings reveal that dynamically adjusting matching radii based on our proposed approach significantly improves system performance.
 
 
 
