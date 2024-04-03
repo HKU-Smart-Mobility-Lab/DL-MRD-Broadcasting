@@ -20,6 +20,7 @@ As ride-hailing services have experienced significant growth, most research has 
 [![matching mechanism](link-to-thumbnail-or-placeholder-image.png)](https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/order-matching.pdf "Click to view the matching mechanism diagram")
 
 [![model](link-to-thumbnail-or-placeholder-image.png)](https://github.com/HKU-Smart-Mobility-Lab/DL-MRD-Broadcasting/blob/main/model.pdf "Click to view the DL-MRD model structure")
+![demo](https://github.com/HKU-Smart-Mobility-Lab/map-boardcast/blob/main/public/static/demo.jpeg "Demo")
 
 ### Install Simulator
 
