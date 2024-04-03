@@ -56,7 +56,7 @@ docker exec -it simultor /bin/bash
 
 ###  Citing
 
-If you use this simulator for academic research, you are highly encouraged to cite our paper:
+If you use any part of this repo, you are highly encouraged to cite our paper:
 
 Chen, T., Shen, Z., Feng, S., Yang, L., & Ke, J. (2023). Dynamic Adjustment of Matching Radii under the Broadcasting Mode: A Novel Multitask Learning Strategy and Temporal Modeling Approach. arXiv preprint arXiv:2312.05576.
 
