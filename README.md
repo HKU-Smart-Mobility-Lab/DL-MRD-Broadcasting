@@ -64,7 +64,7 @@ docker exec -it simultor /bin/bash
 
 If you use any part of this repo, you are highly encouraged to cite our paper:
 
-Chen, T., Shen, Z., Feng, S., Yang, L., & Ke, J. (2023). Dynamic Adjustment of Matching Radii under the Broadcasting Mode: A Novel Multitask Learning Strategy and Temporal Modeling Approach. arXiv preprint arXiv:2312.05576.
+Chen, T., Shen, Z., Feng, S., Yang, L., & Ke, J. (2025). Dynamic matching radius decision model for on-demand ride services: A deep multi-task learning approach. Transportation Research Part E: Logistics and Transportation Review, 193, 103822.
 
 
 
